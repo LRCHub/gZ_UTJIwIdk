@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Mean It",
+  "base_artist": "Lauv & LANY",
+  "createdAt": "2026-03-03T13:53:07.580389Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Me Like You Mean It",
+      "artist": "Kelsea Ballerini",
+      "has_synced": true,
+      "path": "select/01_Love_Me_Like_You_Mean_It_Kelsea_Ballerini.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Smile Like You Mean It",
+      "artist": "The Killers",
+      "has_synced": true,
+      "path": "select/02_Smile_Like_You_Mean_It_The_Killers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kiss Me Like You Mean It",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/03_Kiss_Me_Like_You_Mean_It_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Mean It",
+      "artist": "Nite Jewel",
+      "has_synced": false,
+      "path": "select/04_I_Mean_It_Nite_Jewel.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Can't Say It Like I Mean It",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/05_Can't_Say_It_Like_I_Mean_It_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Can't Say It Like I Mean It (Live - The Turn Tour 2008)",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/06_Can't_Say_It_Like_I_Mean_It_(Live_-_The_Turn_Tour_2008)_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Can't Say It Like I Mean It (Live)",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/07_Can't_Say_It_Like_I_Mean_It_(Live)_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mean It",
+      "artist": "H.E.R.",
+      "has_synced": true,
+      "path": "select/08_Mean_It_H.E.R..lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Like You Mean It",
+      "artist": "Ruelle",
+      "has_synced": true,
+      "path": "select/09_Like_You_Mean_It_Ruelle.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'll Get You, I Mean It",
+      "artist": "Helium",
+      "has_synced": false,
+      "path": "select/10_I'll_Get_You,_I_Mean_It_Helium.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Smile Like You Mean It",
+      "artist": "The Killers",
+      "has_synced": true,
+      "path": "select/11_Smile_Like_You_Mean_It_The_Killers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Smile Like You Mean It (Ruff and Jam Eastside Mix)",
+      "artist": "The Killers",
+      "has_synced": false,
+      "path": "select/12_Smile_Like_You_Mean_It_(Ruff_and_Jam_Eastside_Mix)_The_Killers.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Smile Like You Mean It (Ruff & Jam Eastside Mix)",
+      "artist": "The Killers",
+      "has_synced": false,
+      "path": "select/13_Smile_Like_You_Mean_It_(Ruff_&_Jam_Eastside_Mix)_The_Killers.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Don't Mean It",
+      "artist": "R. Kelly",
+      "has_synced": false,
+      "path": "select/14_I_Don't_Mean_It_R._Kelly.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Mean (I Don't Mean It)",
+      "artist": "R. Kelly",
+      "has_synced": true,
+      "path": "select/15_I_Mean_(I_Don't_Mean_It)_R._Kelly.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "You Don't Have To Mean It",
+      "artist": "The Rolling Stones",
+      "has_synced": false,
+      "path": "select/16_You_Don't_Have_To_Mean_It_The_Rolling_Stones.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "You Don't Have To Mean It (Remastered)",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/17_You_Don't_Have_To_Mean_It_(Remastered)_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Know You Don't Mean It",
+      "artist": "Vanessa Carlton",
+      "has_synced": true,
+      "path": "select/18_I_Know_You_Don't_Mean_It_Vanessa_Carlton.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mean It",
+      "artist": "Lauv & LANY",
+      "has_synced": false,
+      "path": "select/pl_01_Mean_It_Lauv_&_LANY.txt"
+    }
+  ]
+}
